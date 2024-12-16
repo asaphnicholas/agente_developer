@@ -16,3 +16,5 @@
 >
 > ##### Entre no site da OpenAi Moderation, e pegue a sua chave API.
 > ##### Com sua chave em mãos crie um arquivo dentro de seu projeto chamado .env e insira sua chave API, exemplo: openai_key=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+>
+> ## Para rodar o projeto execute o seguinte comando no terminal: streamlit run main.py
